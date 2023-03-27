@@ -1,2 +1,2 @@
 # GazetterExtractor
-Scrip to extract data from South America Gazetteers (e.g. Paynter &amp; Traylor, 1991. Ornithological Gazetteer of Brazil) and then organize in a csv table.
+Script to extract data from South American Gazetteers, such as Paynter & Traylor's Ornithological Gazetteer of Brazil, and organize it into a pandas.DataFrame object.
